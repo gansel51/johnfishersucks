@@ -3,9 +3,9 @@ import smtplib
 import time
 
 # Email and login details
-from_address = "griffin.ansel@gmail.com"
+from_address = "angrystomper@gmail.com"
 to_address = "john.fisher@athletics.com"
-sender_name = "Griffin Ansel"
+sender_name = "Angry Stomper"
 password = os.environ.get["email_password"]
 
 # SMTP server details for Gmail
