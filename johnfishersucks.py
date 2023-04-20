@@ -21,7 +21,7 @@ You told us you would keep our team here, but instead you pull a "major league" 
 concession prices, then complain when fans don't come to your games. Maybe if you put half the effort into the team
 as you do in failing to run the companies your parents gave you, we'd actually have a winner. Enjoy the desert.
 When you have hungover visiting fans puking around your shiny new stadium and no A's fans in sight, maybe you'll
-remember this email. Or the one coming in 5 minutes.
+remember this email. Or the one coming in 5 minutes. You suck.
 
 Sincerely,
 
