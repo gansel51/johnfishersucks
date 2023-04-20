@@ -2,8 +2,6 @@
 
 This repo includes code to send an email to John Fisher every five minutes telling him that he sucks. To set the password environement variable on your local machine, run the following code:
 
-`# Set environment variables`
-
 `import os`
 
 `os.environ['email_password'] = 'your_password'`
