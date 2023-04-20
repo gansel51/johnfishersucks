@@ -6,7 +6,7 @@ import time
 from_address = "griffin.ansel@gmail.com"
 to_address = "john.fisher@athletics.com"
 sender_name = "Griffin Ansel"
-password = os.environ["email_password"]
+password = os.environ.get["email_password"]
 
 # SMTP server details for Gmail
 smtp_server = "smtp.gmail.com"
